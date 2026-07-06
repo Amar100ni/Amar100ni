@@ -1,6 +1,6 @@
 # Hi, I'm Amar Soni 👋
 
-🎓 Third-year CSE student at MIT World Peace University, Pune  
+🎓 Final-year CSE student at MIT World Peace University, Pune  
 🔐 Focused on **cybersecurity** — SOC analysis, digital forensics, and penetration testing  
 🛠️ I build practical security tools rather than just studying theory  
 📍 Pune, India
